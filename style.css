@@ -34,7 +34,7 @@ body {
   overflow-x: hidden;
   background:
     linear-gradient(rgba(255, 250, 252, 0.78), rgba(255, 250, 252, 0.88)),
-    url("cherry-blossom.png");
+    url("images/cherry-blossom.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
